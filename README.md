@@ -1,1 +1,4 @@
 # Star_Wars_APIs
+
+**Star_Wars_and_Open_Movie_APIs.py** Set up for classes
+**run.py**main code where the library is initiated and user could search the library
