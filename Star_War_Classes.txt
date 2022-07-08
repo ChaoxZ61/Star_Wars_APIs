@@ -34,4 +34,5 @@ movies: list
 lastUpdated: date
 --------
 sort()
-calls()
+searchFilm()
+searchCharacter()
