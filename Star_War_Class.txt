@@ -1,0 +1,37 @@
+StarWarsFilm
+--------
+title: str
+episode_id: int
+opening_crawl: str
+director: str
+producer: str
+release_date: date
+characters: list
+plot: str
+RottenTomatoesRating: str
+BoxOfficeGross: str
+--------
+__ge__()
+__gt__()
+__eq__()
+
+Character
+--------
+name: str
+height: int
+mass: int
+hair_color: str
+skin_color: str
+eye_color:str
+birth_year: str
+gender: str
+--------
+__str__()
+
+StarWarsLibrary
+--------
+movies: list
+lastUpdated: date
+--------
+sort()
+calls()
